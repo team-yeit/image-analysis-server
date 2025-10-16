@@ -1,0 +1,14 @@
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+docs/_build/
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+../.venv
+venv
+.idea
